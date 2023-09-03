@@ -1,4 +1,4 @@
-# Angular Template Form
+# Template-driven Hero Form
 
 This project was made following Angular's [template-driven form tutorial](https://angular.io/guide/forms#building-a-template-driven-form). It's a simple application form for a fictional hiring agency for heroes.
 
@@ -6,4 +6,4 @@ It uses two-way binding with `ngModel`, template reference variables and Twitter
 
 ## Run it locally
 
-Run `ng serve` for a dev servera and navigate to `http://localhost:4200/`
+Run `ng serve` for a dev server and navigate to `http://localhost:4200/`
